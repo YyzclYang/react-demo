@@ -2,4 +2,13 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  height: 100vh;
+  color: #eee;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+}
+#root {
+  font-size: 16;
+  color: red;
 }
